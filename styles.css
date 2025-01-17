@@ -1,0 +1,81 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    margin: 10px;
+    text-align: center;
+    font-family: "Quicksand", serif;
+    color: #022b3a;
+    background-color: eggwhite;
+ 
+        
+}
+
+#text {
+    width: 400px;
+    margin: 10px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #b6be9c;
+    color: white;
+    border: 0px solid #284b63;
+    border-radius: 20px;
+    
+}
+
+img {
+    width: 300px;
+    border: 2px solid white;
+    border-radius: 20px;
+}
+.bkgd {
+    background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmh2MGJ6MGpvOXUzMG95aTJpeGV0d2JydjJpeXFxNnh1dDAxN3E2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tf8ATa5WVlApJVzdal/giphy.gif");
+    background-size: cover;
+    height: 300px;
+    text-align: center;
+    padding: 10px 12px; 
+    
+  
+}   
+#footer {
+    width: 450px;
+    margin: 20px  auto;
+    padding: 10px ;
+    background: #b6be9c;
+    border: 4px solid #284b63;
+    border-radius: 20px;
+    Display: flex;
+    Justify-content: space-around;
+    Align-items: center;
+    color: white;
+     }  
+ 
+.avatar {
+     width: 150px;
+    border-radius: 20px;  
+}
+.card {
+    text-align: center;
+    padding-left:15px;
+}
+        
+.list{
+    display: flex;
+    justify-content: space-around;  
+    text-align: center;
+    
+
+    
+}
+    
+
+
